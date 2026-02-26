@@ -19,6 +19,15 @@
 }
 
 
+.pT3but {
+  font-family: var(--main-font);
+  letter-spacing: 2px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: normal;
+  margin: 0.2em 0;
+  color: var(--brown-accent);
+}
 .block_1 {
     display: block;
     font-family: serif;
