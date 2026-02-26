@@ -18,8 +18,18 @@
     -ms-hyphens: auto;
 	hyphens: auto;
 }
-
-
+.pT3but {
+  font-family: var(--main-font);
+  letter-spacing: 2px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: normal;
+  margin: 0.2em 0;
+  color: var(--brown-accent);
+}
+  .butXL, .button, .button3, .buttonXL, .button_c {
+     color: #000; /* Ensure button text is readable on bright button backgrounds */
+  }
 
 p{
     font-family: "Times New Roman", Times, serif;
